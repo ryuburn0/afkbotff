@@ -1,6 +1,6 @@
 {
     "bot-account":{ 
-        "username": "bot",
+        "username": "Majky99",
         "password": "",
         "type": "mojang"
     },
@@ -30,7 +30,7 @@
         },
 
         "chat-messages":{
-            "enabled": true,
+            "enabled": false,
             "repeat": true,
             "repeat-delay": 120,
 
