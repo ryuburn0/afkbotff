@@ -1,0 +1,48 @@
+{
+    "bot-account":{ 
+        "username": "bot",
+        "password": "",
+        "type": "mojang"
+    },
+
+    "server":{
+        "ip": "majkyfrajer.aternos.me",
+        "port": 46148,
+        "version": "1.18.1"
+    },
+
+    "position":{
+        "enabled": false,
+        "x": 0,
+        "y": 0,
+        "z": 0
+    },
+
+    "utils":{
+        "auto-auth":{
+            "enabled": false,
+            "password": "12345678"
+        },
+
+        "anti-afk":{
+            "enabled": true,
+            "sneak": true
+        },
+
+        "chat-messages":{
+            "enabled": true,
+            "repeat": true,
+            "repeat-delay": 120,
+
+            "messages": [
+                "I'm a regular player ", 
+                "My owner is MrD3xtr ", 
+                "I want be alone ", 
+                "uwu"
+            ]
+        },
+
+        "chat-log": true,
+        "auto-reconnect": true
+    }
+}
