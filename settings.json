@@ -30,15 +30,15 @@
         },
 
         "chat-messages":{
-            "enabled": false,
+            "enabled": true,
             "repeat": true,
-            "repeat-delay": 120,
+            "repeat-delay": 1,
 
             "messages": [
-                "I'm a regular player ", 
-                "My owner is MrD3xtr ", 
-                "I want be alone ", 
-                "uwu"
+                "takze cau lidi tady majky ", 
+                "aaaaaa", 
+                "v dnesnim videu si ukazeme ", 
+                "aaaaaa"
             ]
         },
 
