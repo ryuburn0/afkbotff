@@ -1,14 +1,14 @@
 {
     "bot-account":{ 
-        "username": "Majky99",
+        "username": "notabot",
         "password": "",
-        "type": "mojang"
+        "type": ""
     },
 
     "server":{
-        "ip": "majkyfrajer.aternos.me",
-        "port": 46148,
-        "version": "1.18.1"
+        "ip": "game4.falix.cc",
+        "port": 38159,
+        "version": "1.18.2"
     },
 
     "position":{
@@ -21,7 +21,7 @@
     "utils":{
         "auto-auth":{
             "enabled": false,
-            "password": "12345678"
+            "password": ""
         },
 
         "anti-afk":{
@@ -35,10 +35,10 @@
             "repeat-delay": 1,
 
             "messages": [
-                "takze cau lidi tady majky ", 
-                "aaaaaa", 
-                "v dnesnim videu si ukazeme ", 
-                "aaaaaa"
+                "bot afk here", 
+                "anybody there", 
+                "hello", 
+                "hi"
             ]
         },
 
